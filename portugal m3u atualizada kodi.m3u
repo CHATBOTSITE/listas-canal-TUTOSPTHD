@@ -1,0 +1,118 @@
+#EXTINF:-1,PT: SporTV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/880.ts
+#EXTINF:-1,PT: SporTV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/881.ts
+#EXTINF:-1,PT: SporTV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/882.ts
+#EXTINF:-1,PT: SporTV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/883.ts
+#EXTINF:-1,PT: SporTV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/884.ts
+#EXTINF:-1,PT: Sporting TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/885.ts
+#EXTINF:-1,PT: Sport TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/899.ts
+#EXTINF:-1,PT: Benfica TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/900.ts
+#EXTINF:-1,PT: TVCine 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/936.ts
+#EXTINF:-1,PT: TVCine 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/935.ts
+#EXTINF:-1,PT: TVCine 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/934.ts
+#EXTINF:-1,PT: TVCine 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/933.ts
+#EXTINF:-1,PT: TVCseries
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/930.ts
+#EXTINF:-1,PT: VeVo 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/898.ts
+#EXTINF:-1,PT: VeVo 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/897.ts
+#EXTINF:-1,PT: VeVo 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/896.ts
+#EXTINF:-1,PT: AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/915.ts
+#EXTINF:-1,PT: Axn White HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/916.ts
+#EXTINF:-1,PT: Axn Black HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/932.ts
+#EXTINF:-1,PT: Fox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/926.ts
+#EXTINF:-1,PT: Fox Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/901.ts
+#EXTINF:-1,PT: Fox Life HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/925.ts
+#EXTINF:-1,PT: Fox Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/923.ts
+#EXTINF:-1,PT: Fox Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/929.ts
+#EXTINF:-1,PT: Toros tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/909.ts
+#EXTINF:-1,PT: TVI Ficcao
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/886.ts
+#EXTINF:-1,PT: TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/889.ts
+#EXTINF:-1,PT: TVI 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/887.ts
+#EXTINF:-1,PT: TV Globo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/888.ts
+#EXTINF:-1,PT: SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/924.ts
+#EXTINF:-1,PT: SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/919.ts
+#EXTINF:-1,PT: SIC Noticias
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/903.ts
+#EXTINF:-1,PT: Sic Radical
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/914.ts
+#EXTINF:-1,PT: SIC Caras
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/912.ts
+#EXTINF:-1,PT: Sic Mulher
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/913.ts
+#EXTINF:-1,PT: RTP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/895.ts
+#EXTINF:-1,PT: RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/894.ts
+#EXTINF:-1,PT: RTP Memoria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/890.ts
+#EXTINF:-1,PT: RTP Madeira
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/891.ts
+#EXTINF:-1,PT: RTP Acores
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/893.ts
+#EXTINF:-1,PT: TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/878.ts
+#EXTINF:-1,PT: Travel Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/877.ts
+#EXTINF:-1,PT: CM TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/908.ts
+#EXTINF:-1,PT: TV Globo Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/931.ts
+#EXTINF:-1,PT: Record
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/917.ts
+#EXTINF:-1,PT: PFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/911.ts
+#EXTINF:-1,PT: Jim Jim
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/918.ts
+#EXTINF:-1,PT: SyFy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/902.ts
+#EXTINF:-1,PT: CartoonNet Work
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/920.ts
+#EXTINF:-1,PT: Motors TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/921.ts
+#EXTINF:-1,PT: Cine Mundo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/892.ts
+#EXTINF:-1,PT: EuroSpor News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/922.ts
+#EXTINF:-1,PT: Hollywood
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/907.ts
+#EXTINF:-1,PT: EuroSport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/927.ts
+#EXTINF:-1,PT: EuroSport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/928.ts
+#EXTINF:-1,PT: Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/905.ts
+#EXTINF:-1,PT: Disney Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/904.ts
+#EXTINF:-1,PT: Discovery HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/906.ts
+#EXTINF:-1,PT: Abola tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/910.ts
