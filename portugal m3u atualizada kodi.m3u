@@ -1,105 +1,105 @@
 #EXTM3U
 #EXTINF:-1,[COLOR green]LISTA [COLOR yellow]ATUALIZADA [COLOR green]18-08-2017 [COLOR yellow] [COLOR green][TUTOSPTHD][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/880.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/799.ts
 #EXTINF:-1, SPORT TV 1 HD
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/799.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/799.ts
 #EXTINF:-1, BENFICA TV 1
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1111.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1111.ts
 #EXTINF:-1, SPORTING TV HD
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/793.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/793.ts
 #EXTINF:-1, TLC
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1455.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1455.ts
 #EXTINF:-1, TVI 24
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1428.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1428.ts
 #EXTINF:-1, SPORT TV 3 HD
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/797.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/797.ts
 #EXTINF:-1, SPORT TV 2 HD
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/798.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/798.ts
 #EXTINF:-1, SIC NOTICIAS
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1126.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1126.ts
 #EXTINF:-1, TRAVEL CHANNEL HD
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/79.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/79.ts
 #EXTINF:-1, CBS REALITY
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2884.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2884.ts
 #EXTINF:-1, AMC
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1453.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1453.ts
 #EXTINF:-1, FOX LIFE HD
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1118.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1118.ts
 #EXTINF:-1, Motorvision HD
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2826.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2826.ts
 #EXTINF:-1, FUEL TV HD
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2882.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2882.ts
 #EXTINF:-1,  TVCINE 4 HD
-http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/7326.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/7326.ts
 #EXTINF:-1, TVI REALITY
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1457.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1457.ts
 #EXTINF:-1, TVCINE 1 HD
-http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/7329.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/7329.ts
 #EXTINF:-1, SPORT TV
-http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/5295.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/5295.ts
 #EXTINF:-1, 24 KITCHEN
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1458.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1458.ts
 #EXTINF:-1, AMC
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/53.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/53.ts
 #EXTINF:-1, TVCINE 3 HD
-http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/7327.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/7327.ts
 #EXTINF:-1, TV RECORD
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1439.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1439.ts
 #EXTINF:-1, SPORT TV 2 HD 1080
-http://144.217.71.168:8000/live/iptvmanuel/manueliptv/2527.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://144.217.71.168:8000/live/iptvmanuel/manueliptv/2527.ts
 #EXTINF:-1, SIC NOTICIAS
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/126.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/126.ts
 #EXTINF:-1, SPORT 4 HD
-http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/5290.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/5290.ts
 #EXTINF:-1,  MTV DANCE
-http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6403.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6403.ts
 #EXTINF:-1, NATIONAL GEOGRAPHIC HD
-http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6406.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6406.ts
 #EXTINF:-1,  MOTORVISION
-http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6402.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6402.ts
 #EXTINF:-1,  FOX CRIME HD
-http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6392.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6392.ts
 #EXTINF:-1, E! Entertainment
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1456.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1456.ts
 #EXTINF:-1,  MTV PORTUGAL
-http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6404.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6404.ts
 #EXTINF:-1,  FOX COMEDY
-http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6391.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6391.ts
 #EXTINF:-1, NAT GEO WILD
-http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6405.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6405.ts
 #EXTINF:-1, SPORT TV 1 HD
-http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/5287.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/5287.ts
 #EXTINF:-1, SPORT 5HD
-http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/5291.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/5291.ts
 #EXTINF:-1, SPORT TV 1 HD
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/9.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/9.ts
 #EXTINF:-1, GLOBO PREMIUM
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2763.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2763.ts
 #EXTINF:-1,  E! ENTERTAINMENT
-http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6390.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6390.ts
 #EXTINF:-1, EUROSPORT
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1115.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1115.ts
 #EXTINF:-1, TRAVEL CHANNEL HD
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2879.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2879.ts
 #EXTINF:-1, TVI Reality
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1431.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1431.ts
 #EXTINF:-1, TV CINE 3 HD
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/790.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/790.ts
 #EXTINF:-1,  HOLLYWOOD
-http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6398.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6398.ts
 #EXTINF:-1, AXN WHITE
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1110.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1110.ts
 #EXTINF:-1, ODISSEIA
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1465.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1465.ts
 #EXTINF:-1, RTP 3
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1108.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1108.ts
 #EXTINF:-1, EUROSPORT 2
-http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6279.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6279.ts
 #EXTINF:-1, RTP 2
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/805.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/805.ts
 #EXTINF:-1, FUEL TV HD
-http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/82.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/82.ts
 #EXTINF:-1, Travel Channel HD
-http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/7478.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/7478.ts
 #EXTINF:-1, AXN BLACK HD
-http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6384.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://137.74.49.242:8080/live/8uOE3wVPKj/bkbHNe6tK4/6384.ts
