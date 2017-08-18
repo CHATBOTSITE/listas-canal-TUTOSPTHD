@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR green]LISTA [COLOR yellow]ATUALIZADA [COLOR green]18-08-2017 [COLOR yellow]- [COLOR green]TUTOSPTHD]
+#EXTINF:-1,[COLOR green]LISTA [COLOR yellow]ATUALIZADA [COLOR green]18-08-2017 [COLOR yellow] [COLOR green][TUTOSPTHD][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/880.ts
 #EXTINF:-1, SPORT TV 1 HD
 http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/799.ts
