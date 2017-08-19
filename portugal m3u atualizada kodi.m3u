@@ -1,117 +1,183 @@
 #EXTM3U
-#EXTINF:-1,[COLOR green]LISTA [COLOR yellow]ATUALIZADA [COLOR green]18-08-2017 [COLOR yellow] [COLOR green][TUTOSPTHD][/COLOR]
+#EXTINF:-1,[COLOR green]LISTA [COLOR yellow]ATUALIZADA [COLOR green]19-08-2017 [COLOR yellow] [COLOR green][TUTOSPTHD][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1428.ts
-#EXTINF:-1, TVI 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1428.ts
-#EXTINF:-1, BENFICA TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1111.ts
-#EXTINF:-1, SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/799.ts
-#EXTINF:-1, SIC NOTICIAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1126.ts
-#EXTINF:-1, TRAVEL CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/79.ts
-#EXTINF:-1, EUROSPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1115.ts
-#EXTINF:-1, CBS REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2884.ts
-#EXTINF:-1, SPORTING TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/793.ts
-#EXTINF:-1, SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/798.ts
-#EXTINF:-1, TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1455.ts
-#EXTINF:-1, AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1453.ts
-#EXTINF:-1, E! Entertainment
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1456.ts
-#EXTINF:-1, Motorvision HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2826.ts
-#EXTINF:-1, AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1110.ts
-#EXTINF:-1, ODISSEIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1465.ts
-#EXTINF:-1, FOX LIFE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1118.ts
-#EXTINF:-1, SIC NOTICIAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/126.ts
-#EXTINF:-1, SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/797.ts
-#EXTINF:-1, TVI Reality (A Quinta)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1431.ts
-#EXTINF:-1, FUEL TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2882.ts
-#EXTINF:-1,PT | Sport tv2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.185:25461/live/15pUsZKUIw/4boblpukUd/713.ts
-#EXTINF:-1, RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1108.ts
-#EXTINF:-1,CA | GLOBAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.187:25461/live/15pUsZKUIw/4boblpukUd/724.ts
-#EXTINF:-1,CA | OWN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.186:25461/live/15pUsZKUIw/4boblpukUd/713.ts
-#EXTINF:-1, SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/9.ts
-#EXTINF:-1, TV RECORD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1439.ts
-#EXTINF:-1, GLOBO PREMIUM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2763.ts
-#EXTINF:-1, FUEL TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/82.ts
-#EXTINF:-1, AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/53.ts
-#EXTINF:-1,CA | SPORTS NET WEST HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.185:25461/live/15pUsZKUIw/4boblpukUd/704.ts
-#EXTINF:-1,CA | SPORTS NET PACIFIC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.185:25461/live/15pUsZKUIw/4boblpukUd/705.ts
-#EXTINF:-1, RTP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/805.ts
-#EXTINF:-1, TRAVEL CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/2879.ts
-#EXTINF:-1, TV CINE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/790.ts
-#EXTINF:-1, TVI REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1457.ts
-#EXTINF:-1,PT | Playboy TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.187:25461/live/15pUsZKUIw/4boblpukUd/723.ts
-#EXTINF:-1, 24 KITCHEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62.210.167.236:8010/live/smart1M171/dhjJE8RMPU/1458.ts
-#EXTINF:-1,PT | Sport tv3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.185:25461/live/15pUsZKUIw/4boblpukUd/712.ts
-#EXTINF:-1,PT | Playboy TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.186:25461/live/15pUsZKUIw/4boblpukUd/723.ts
-#EXTINF:-1,CA | NBC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.186:25461/live/15pUsZKUIw/4boblpukUd/714.ts
-#EXTINF:-1,PT | Sic Caras
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.187:25461/live/15pUsZKUIw/4boblpukUd/718.ts
-#EXTINF:-1,PT | Sport tv3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.188:25461/live/15pUsZKUIw/4boblpukUd/712.ts
-#EXTINF:-1,PT | Tv Record
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.188:25461/live/15pUsZKUIw/4boblpukUd/707.ts
-#EXTINF:-1,PT | TVI Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.188:25461/live/15pUsZKUIw/4boblpukUd/704.ts
-#EXTINF:-1,CA | HBO 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.188:25461/live/15pUsZKUIw/4boblpukUd/723.ts
-#EXTINF:-1,PT | SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.188:25461/live/15pUsZKUIw/4boblpukUd/719.ts
-#EXTINF:-1,PT | RTP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.190:25461/live/15pUsZKUIw/4boblpukUd/720.ts
-#EXTINF:-1,PT | Sport tv2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.188:25461/live/15pUsZKUIw/4boblpukUd/713.ts
-#EXTINF:-1,CA | OWN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.187:25461/live/15pUsZKUIw/4boblpukUd/713.ts
-#EXTINF:-1,PT | Playboy TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.190:25461/live/15pUsZKUIw/4boblpukUd/723.ts
-#EXTINF:-1,PT | Sport tv2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.190:25461/live/15pUsZKUIw/4boblpukUd/713.ts
-#EXTINF:-1,PT | SIC NOTICIAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.190:25461/live/15pUsZKUIw/4boblpukUd/717.ts
-#EXTINF:-1,PT | Sport tv1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.190:25461/live/15pUsZKUIw/4boblpukUd/714.ts
-#EXTINF:-1,PT | PFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.190:25461/live/15pUsZKUIw/4boblpukUd/724.ts
-#EXTINF:-1,CA | PBS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.190:25461/live/15pUsZKUIw/4boblpukUd/712.ts
-#EXTINF:-1,PT | Tv Record
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.190:25461/live/15pUsZKUIw/4boblpukUd/707.ts
-#EXTINF:-1,PT | TVI Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://51.254.175.190:25461/live/15pUsZKUIw/4boblpukUd/704.ts
+#EXTINF:-1,RTP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/890.ts
+#EXTINF:-1,RTP 1 Alternativa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1402.ts
+#EXTINF:-1,SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/880.ts
+#EXTINF:-1,SIC Alternativa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1397.ts
+#EXTINF:-1,TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/891.ts
+#EXTINF:-1,TVI Alternativa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1401.ts
+#EXTINF:-1,RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/882.ts
+#EXTINF:-1,RTP 2 Alternativa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1454.ts
+#EXTINF:-1,RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/886.ts
+#EXTINF:-1,RTP 3 Alternativa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1444.ts
+#EXTINF:-1,TVI 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/877.ts
+#EXTINF:-1,TVI 24 Alternativa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1443.ts
+#EXTINF:-1,SIC NOTICIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/883.ts
+#EXTINF:-1,SIC NOTICIAS Alternativa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1437.ts
+#EXTINF:-1,CMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/887.ts
+#EXTINF:-1,BTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/885.ts
+#EXTINF:-1,BTV Alternativa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1442.ts
+#EXTINF:-1,BTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1065.ts
+#EXTINF:-1,SPORT TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/867.ts
+#EXTINF:-1,Sport TV 1 Alternativa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1396.ts
+#EXTINF:-1,SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/858.ts
+#EXTINF:-1,SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/879.ts
+#EXTINF:-1,SPORT TV 2 Alternativa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1439.ts
+#EXTINF:-1,SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1069.ts
+#EXTINF:-1,SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/876.ts
+#EXTINF:-1,SPORT TV 3 Alternativa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1441.ts
+#EXTINF:-1,SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1070.ts
+#EXTINF:-1,SPORT TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/874.ts
+#EXTINF:-1,SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1145.ts
+#EXTINF:-1,SPORT TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/861.ts
+#EXTINF:-1,SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1523.ts
+#EXTINF:-1,SPORT TV + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1520.ts
+#EXTINF:-1,PORTO CANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/888.ts
+#EXTINF:-1,SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/859.ts
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/857.ts
+#EXTINF:-1,AXN Alternativa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1456.ts
+#EXTINF:-1,AXN WHITE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1129.ts
+#EXTINF:-1,AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1096.ts
+#EXTINF:-1,AMC Alternativa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1453.ts
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/866.ts
+#EXTINF:-1,HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/872.ts
+#EXTINF:-1,HOLLYWOOD Alternativa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1438.ts
+#EXTINF:-1,HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1083.ts
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1081.ts
+#EXTINF:-1,FOX MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/863.ts
+#EXTINF:-1,FOX MOVIES Alternativa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1445.ts
+#EXTINF:-1,TV CINE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1084.ts
+#EXTINF:-1,TV CINE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1085.ts
+#EXTINF:-1,TV CINE 1 Alternativa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1452.ts
+#EXTINF:-1,TV CINE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1086.ts
+#EXTINF:-1,TV CINE 2 Alternativa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1451.ts
+#EXTINF:-1,TV CINE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1087.ts
+#EXTINF:-1,TV CINE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1088.ts
+#EXTINF:-1,TV CINE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1303.ts
+#EXTINF:-1,TV CINE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1089.ts
+#EXTINF:-1,TV CINE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1304.ts
+#EXTINF:-1,TV SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1526.ts
+#EXTINF:-1,CINEMUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1527.ts
+#EXTINF:-1,SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1090.ts
+#EXTINF:-1,SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1289.ts
+#EXTINF:-1,CINEMUNDO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1100.ts
+#EXTINF:-1,MOV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1075.ts
+#EXTINF:-1,TVI FICCÃO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1400.ts
+#EXTINF:-1,TVI REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/865.ts
+#EXTINF:-1,SIC MULHER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/864.ts
+#EXTINF:-1,SIC RADICAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1092.ts
+#EXTINF:-1,SIC CARAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1524.ts
+#EXTINF:-1,RTP MEMORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1093.ts
+#EXTINF:-1,TV GLOBO PREMIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/878.ts
+#EXTINF:-1,FRANCE 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/862.ts
+#EXTINF:-1,CNN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/856.ts
+#EXTINF:-1,KOMBAT SPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1528.ts
+#EXTINF:-1,MOTORVISION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1521.ts
+#EXTINF:-1,EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1133.ts
+#EXTINF:-1,EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1290.ts
+#EXTINF:-1,A BOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1094.ts
+#EXTINF:-1,NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/889.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1077.ts
+#EXTINF:-1,ODISSEIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/868.ts
+#EXTINF:-1,ODISSEIA Alternativa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1440.ts
+#EXTINF:-1,CANAL HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/870.ts
+#EXTINF:-1,CANAL HISTORIA Alternativa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1457.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/869.ts
+#EXTINF:-1,DISCOVERY CHANNEL Alternativa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1455.ts
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1131.ts
+#EXTINF:-1,TRAVEL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1061.ts
+#EXTINF:-1,CAÇAVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1098.ts
+#EXTINF:-1,CAÇA E PESCA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1097.ts
+#EXTINF:-1,TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1519.ts
+#EXTINF:-1,TRACE URBAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvsbh.ddns.net:8003/live/armindo/armindo/1518.ts
