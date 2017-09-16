@@ -1,455 +1,276 @@
 #EXTM3U
-#EXTINF:-1,[COLOR green]LISTA [COLOR yellow]ATUALIZADA [COLOR green]05-09-2017 [COLOR yellow][TUTOSPTHD][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/2714.ts
-#EXTINF:-1,[COLOR red]AVISO[COLOR white]:[COLOR red] LISTA CONTEM CONTEUDO ADULTO +18[/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://iptvfullhd.info:8080/live/scotty28/smart52142d55f5dd/2714.ts
-#EXTINF:-1, TV CINE 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.47.250.72:25461/live/1234/1234/5609.ts
-#EXTINF:-1, DISNEY   JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.47.250.72:25461/live/1234/1234/5615.ts
-#EXTINF:-1, Sic Mulher
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.47.250.72:25461/live/1234/1234/5616.ts
-#EXTINF:-1,ABC TV PARAGUAY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://192.99.45.99:8000/live/Rodi80/ra8805/2.ts
-#EXTINF:-1, SIC Noticias
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.47.250.72:25461/live/1234/1234/5618.ts
-#EXTINF:-1, SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.47.250.72:25461/live/1234/1234/5619.ts
-#EXTINF:-1, SIC Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3936.ts
-#EXTINF:-1, SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3937.ts
-#EXTINF:-1, Benfica Tv 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1286.ts
-#EXTINF:-1, AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6384.ts
-#EXTINF:-1, EUROSPORT 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1283.ts
-#EXTINF:-1, TVC 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1737.ts
-#EXTINF:-1, RTP Africa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1750.ts
-#EXTINF:-1, TVC 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1734.ts
-#EXTINF:-1, SPORT TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1814.ts
-#EXTINF:-1, SIC Radical
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.47.250.72:25461/live/1234/1234/5617.ts
-#EXTINF:-1, SPORT TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1813.ts
-#EXTINF:-1, Motors TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3691.ts
-#EXTINF:-1, AXN WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1130.ts
-#EXTINF:-1, SIC MULHER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/4332.ts
-#EXTINF:-1, RTP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1747.ts
-#EXTINF:-1, RTP Madeira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1753.ts
-#EXTINF:-1, TVI 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3933.ts
-#EXTINF:-1, SIC RADICAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3934.ts
-#EXTINF:-1,IPTV PARAGUAY SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://192.99.45.99:8000/live/Rodi80/ra8805/3.ts
-#EXTINF:-1, SIC CARAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/4333.ts
-#EXTINF:-1, CineMundo HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.47.250.72:25461/live/1234/1234/5605.ts
+#EXTINF:-1,[COLOR green]LISTA [COLOR yellow]ATUALIZADA [COLOR green]05-09-2017 [COLOR yellow][INSANERC][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://93.190.141.244:8000/live/cuda/cuda/27910.ts
+#EXTM3U
+#EXTINF:-1, LISTA IPTV ATUALIZADA 16-09-2017 [INSANERC]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://93.190.141.244:8000/live/cuda/cuda/27910.ts
+#EXTINF:-1, AXN 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://93.190.141.244:8000/live/cuda/cuda/27910.ts
+#EXTINF:-1, TVI 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://93.190.141.244:8000/live/cuda/cuda/27844.ts
+#EXTINF:-1, AMC 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://93.190.141.244:8000/live/cuda/cuda/27911.ts
+#EXTINF:-1, RTP 3 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32635.ts
+#EXTINF:-1, AXN.HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32618.ts
+#EXTINF:-1, Nat Geo Wild 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32567.ts
+#EXTINF:-1, RTP Madeira 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32633.ts
+#EXTINF:-1, Sport TV3 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32642.ts
+#EXTINF:-1, Sport TV 4 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1815.ts
+#EXTINF:-1, Sport TV 3 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1816.ts
+#EXTINF:-1, Canal Panda 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1829.ts
+#EXTINF:-1, Sporting TV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32639.ts
+#EXTINF:-1, Sport TV 1 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1818.ts
+#EXTINF:-1, CM TV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1861.ts
+#EXTINF:-1, TV Cine 3 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32612.ts
+#EXTINF:-1, Sport TV 2 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1817.ts
+#EXTINF:-1, Disney Channel 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1842.ts
+#EXTINF:-1, Fox Life HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1859.ts
+#EXTINF:-1, RTP Acores 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1855.ts
+#EXTINF:-1, Fox Crime 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1826.ts
+#EXTINF:-1, SIC 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1833.ts
+#EXTINF:-1, Benfica TV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32562.ts
+#EXTINF:-1, Disney junior 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1827.ts
+#EXTINF:-1, SportTV 5 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1821.ts
+#EXTINF:-1, Hollywood 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1858.ts
+#EXTINF:-1, Historia 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32568.ts
+#EXTINF:-1, RTP Madeira 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1854.ts
+#EXTINF:-1, SIC NOTICIAS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1822.ts
+#EXTINF:-1, Axn White HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1863.ts
+#EXTINF:-1, SIC KIDS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1852.ts
+#EXTINF:-1, Motor Tv 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1825.ts
+#EXTINF:-1, DISCOVERY CHANNEL 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1828.ts
+#EXTINF:-1, SIC CARAS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1823.ts
+#EXTINF:-1, Sic Mulher 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1851.ts
+#EXTINF:-1, Canal Porto 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1840.ts
+#EXTINF:-1, Benfica tv1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1831.ts
+#EXTINF:-1, Fox Life HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32626.ts
+#EXTINF:-1, SYFY 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1848.ts
+#EXTINF:-1, RTP 1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1857.ts
+#EXTINF:-1, Sporting tv 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1849.ts
+#EXTINF:-1, CAZA y PESCA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1841.ts
+#EXTINF:-1, TVI REALITY 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1819.ts
+#EXTINF:-1, TVI FICCAO 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1820.ts
+#EXTINF:-1, Tv Record 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1847.ts
+#EXTINF:-1, AXN HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1832.ts
+#EXTINF:-1, Nat Geo Wild 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1824.ts
+#EXTINF:-1, Fox HD  
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1860.ts
+#EXTINF:-1, Canal Historia 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1830.ts
 #EXTINF:-1, TVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3932.ts
-#EXTINF:-1, CANAL Q
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6388.ts
-#EXTINF:-1, TVC 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1275.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1834.ts
+#EXTINF:-1, Axn Black HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1864.ts
+#EXTINF:-1, TVCine 4 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1835.ts
+#EXTINF:-1, Fox Movies 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1843.ts
+#EXTINF:-1, Abola TV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1839.ts
+#EXTINF:-1, TVCine 1  
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1838.ts
+#EXTINF:-1, Jim Jim 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1844.ts
+#EXTINF:-1, RTP Memoria 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1853.ts
+#EXTINF:-1, Benfica tv 2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1862.ts
+#EXTINF:-1, TVCine 3 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1836.ts
+#EXTINF:-1, TV Globo 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1846.ts
+#EXTINF:-1, Sic Radical 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1850.ts
+#EXTINF:-1, SIC NOTICIAS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/1712.ts
+#EXTINF:-1, SIC CARAS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/1713.ts
+#EXTINF:-1, DISCOVERY CHANNEL 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/1720.ts
+#EXTINF:-1, SIC 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/1727.ts
+#EXTINF:-1, Sport TV 4 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/391.ts
+#EXTINF:-1, BENFICA TV 1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/1724.ts
+#EXTINF:-1, NAT GEO WILD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/1715.ts
+#EXTINF:-1, DISNEY JUNIOR 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/1718.ts
+#EXTINF:-1, CANAL PANDA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/1722.ts
+#EXTINF:-1, SPORT TV 1 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/388.ts
+#EXTINF:-1, RTP MADEIRA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/728.ts
+#EXTINF:-1, TVI REALITY 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/1709.ts
+#EXTINF:-1, TVCINE 4 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/719.ts
+#EXTINF:-1, SPORT TV 2 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/389.ts
+#EXTINF:-1, CANAL HISTORIA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/1723.ts
+#EXTINF:-1, Fox HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/735.ts
+#EXTINF:-1, DISNEY JUNIOR 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/718.ts
+#EXTINF:-1, Axn White HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/737.ts
+#EXTINF:-1, Fox Crime 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/1717.ts
+#EXTINF:-1, RTP 1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/732.ts
+#EXTINF:-1, Sport TV 5 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/1711.ts
+#EXTINF:-1, TVI FICCAO 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/1710.ts
+#EXTINF:-1, Motor Tv 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/1716.ts
+#EXTINF:-1, Canal Porto 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/3164.ts
+#EXTINF:-1, FOX MOVIES 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/3161.ts
+#EXTINF:-1, JIM JAM 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/3163.ts
+#EXTINF:-1, CAZA y PESCA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/3162.ts
+#EXTINF:-1, SPORTING TV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/729.ts
+#EXTINF:-1, CANAL PANDA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/722.ts
+#EXTINF:-1, Sic Mulher 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/726.ts
+#EXTINF:-1, SIC 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/727.ts
+#EXTINF:-1, TV GLOBO 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/3158.ts
+#EXTINF:-1, Disney Channel 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/3166.ts
+#EXTINF:-1, Fox Crime 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/717.ts
+#EXTINF:-1, CANAL HISTORIA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/723.ts
+#EXTINF:-1, TVCINE 2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/721.ts
 #EXTINF:-1, RTP 2 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1748.ts
-#EXTINF:-1, Benfica Tv 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1285.ts
-#EXTINF:-1, Fox Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/4331.ts
-#EXTINF:-1, RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.47.250.72:25461/live/1234/1234/5622.ts
-#EXTINF:-1, SIC NOTICIAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3935.ts
-#EXTINF:-1, CACA & PESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6387.ts
-#EXTINF:-1, CARTOON  NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6399.ts
-#EXTINF:-1, Sporting TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1280.ts
-#EXTINF:-1, Economico TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3695.ts
-#EXTINF:-1, VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1744.ts
-#EXTINF:-1, Odisseia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/4336.ts
-#EXTINF:-1, GLOBO TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/4098.ts
-#EXTINF:-1, RTP Memoria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1754.ts
-#EXTINF:-1, PANDA BIGGS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/4335.ts
-#EXTINF:-1, 24 KITCHEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6383.ts
-#EXTINF:-1, TV CINE 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://212.47.250.72:25461/live/1234/1234/5611.ts
-#EXTINF:-1, A & E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6386.ts
-#EXTINF:-1, E! Entertainment
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1276.ts
-#EXTINF:-1, AXN Black HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1131.ts
-#EXTINF:-1, Sport TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1969.ts
-#EXTINF:-1, CBS REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6398.ts
-#EXTINF:-1, Discovery HD Showcase
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6389.ts
-#EXTINF:-1, DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6390.ts
-#EXTINF:-1, Fox Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6391.ts
-#EXTINF:-1, FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6392.ts
-#EXTINF:-1, AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1129.ts
-#EXTINF:-1, PORTO CANAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6396.ts
-#EXTINF:-1, TV CINE 2  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6404.ts
-#EXTINF:-1,TVI REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/4330.ts
-#EXTINF:-1, TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6402.ts
-#EXTINF:-1, Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/4334.ts
-#EXTINF:-1, TOUROS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6401.ts
-#EXTINF:-1, Afro Music
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6407.ts
-#EXTINF:-1, TV CINE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6405.ts
-#EXTINF:-1, MTV Dance
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6410.ts
-#EXTINF:-1, MCM TOP
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6408.ts
-#EXTINF:-1, BTV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6409.ts
-#EXTINF:-1, TVI Ficcao
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6430.ts
-#EXTINF:-1, Chelsea TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3698.ts
-#EXTINF:-1, CARTON NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6070.ts
-#EXTINF:-1, TV RECORD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6400.ts
-#EXTINF:-1, PANDA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6068.ts
-#EXTINF:-1, RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6429.ts
-#EXTINF:-1, A Bola TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3705.ts
-#EXTINF:-1, FOX MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6520.ts
-#EXTINF:-1, CINE MUNDO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6072.ts
-#EXTINF:-1, JimJam EMEA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3692.ts
-#EXTINF:-1, AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3704.ts
-#EXTINF:-1, PFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6395.ts
-#EXTINF:-1, TVC SERIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6517.ts
-#EXTINF:-1, MTV PORTUGAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6069.ts
-#EXTINF:-1, NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6071.ts
-#EXTINF:-1, DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/4337.ts
-#EXTINF:-1, TV Globo Premium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/4110.ts
-#EXTINF:-1, Eurosport
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3694.ts
-#EXTINF:-1, SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1279.ts
-#EXTINF:-1, Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3696.ts
-#EXTINF:-1, TV CINE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6406.ts
-#EXTINF:-1, Canal de Historia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3700.ts
-#EXTINF:-1, TV CINE 1  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6403.ts
-#EXTINF:-1, Nat Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6411.ts
-#EXTINF:-1, Fox
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3693.ts
-#EXTINF:-1, FOX TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6393.ts
-#EXTINF:-1, CMTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/4329.ts
-#EXTINF:-1, FUEL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6397.ts
-#EXTINF:-1,VIP| OSN YAHALA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/886.ts
-#EXTINF:-1,OSN DISCOVERY ID
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/888.ts
-#EXTINF:-1, HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6394.ts
-#EXTINF:-1, VH1 CLASSIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/4293.ts
-#EXTINF:-1, VH1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3945.ts
-#EXTINF:-1,TVC 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1736.ts
-#EXTINF:-1, MOTORVISION TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/6385.ts
-#EXTINF:-1,Baby TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/3702.ts
-#EXTINF:-1,RTP Acores
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.44.113:2500/live/saturdaytrial/WXER12GSQW/1749.ts
-#EXTINF:-1, TVI Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3946.ts
-#EXTINF:-1, TV Globo Premium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3951.ts
-#EXTINF:-1, TVCseries
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3949.ts
-#EXTINF:-1, TVI 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3947.ts
-#EXTINF:-1, TVI REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3974.ts
-#EXTINF:-1, TV RECORD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3950.ts
-#EXTINF:-1, TVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3948.ts
-#EXTINF:-1, TVC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/4294.ts
-#EXTINF:-1, TV GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3952.ts
-#EXTINF:-1, TV CINE 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3989.ts
-#EXTINF:-1, TV CINE 2  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3988.ts
-#EXTINF:-1, TV CINE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3990.ts
-#EXTINF:-1, TV CINE 1  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3987.ts
-#EXTINF:-1, SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3933.ts
-#EXTINF:-1, TOUROS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3953.ts
-#EXTINF:-1, SPORT TV 5HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/2496.ts
-#EXTINF:-1, SPORTING TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3991.ts
-#EXTINF:-1, SPORT TV 4HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/2495.ts
-#EXTINF:-1, SIC NOTICIAS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3935.ts
-#EXTINF:-1, SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3994.ts
-#EXTINF:-1, SIC RADICAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3934.ts
-#EXTINF:-1, SPORT TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3997.ts
-#EXTINF:-1, SIC MULHER
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3955.ts
-#EXTINF:-1, SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3993.ts
-#EXTINF:-1, SPORT TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3992.ts
-#EXTINF:-1, RTP MEMORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3956.ts
-#EXTINF:-1, RTP ACORES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3958.ts
-#EXTINF:-1, RTP AFRICA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3957.ts
-#EXTINF:-1, Sic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3998.ts
-#EXTINF:-1, PFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3959.ts
-#EXTINF:-1, NATIONAL GEOGRAPHIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3963.ts
-#EXTINF:-1, Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3962.ts
-#EXTINF:-1, MOTORVISION
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/4296.ts
-#EXTINF:-1, MTV PORTUGAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/4295.ts
-#EXTINF:-1, PORTO CANAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3936.ts
-#EXTINF:-1, RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3986.ts
-#EXTINF:-1, ODISSEIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3960.ts
-#EXTINF:-1, SPORT TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3995.ts
-#EXTINF:-1, FUEL TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/4299.ts
-#EXTINF:-1, FOX MOVIES
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3996.ts
-#EXTINF:-1, HOLLYWOOD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3937.ts
-#EXTINF:-1, FOX TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3938.ts
-#EXTINF:-1, JIM JAM
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/4297.ts
-#EXTINF:-1, MOV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/4001.ts
-#EXTINF:-1, GLOBO
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/4298.ts
-#EXTINF:-1, MOTORS TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3964.ts
-#EXTINF:-1, FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3939.ts
-#EXTINF:-1, Fox Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3965.ts
-#EXTINF:-1, EUROSPORT
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3942.ts
-#EXTINF:-1, E! Entertainment
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3966.ts
-#EXTINF:-1, DISNEY JUNIOR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3967.ts
-#EXTINF:-1, DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3968.ts
-#EXTINF:-1, Discovery HD Showcase
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3969.ts
-#EXTINF:-1, DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3970.ts
-#EXTINF:-1, CM TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3971.ts
-#EXTINF:-1, CHELSEA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3973.ts
-#EXTINF:-1, RTP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3999.ts
-#EXTINF:-1, CARTOON  NETWORK
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/4301.ts
-#EXTINF:-1, NICKELODEON
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3961.ts
-#EXTINF:-1, CANAL Q
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3975.ts
-#EXTINF:-1, CANAL PANDA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3976.ts
-#EXTINF:-1, CANAL HISTORIA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3977.ts
-#EXTINF:-1, CACA & PESCA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3978.ts
-#EXTINF:-1, BENFICA TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3943.ts
-#EXTINF:-1, BENFICA TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3944.ts
-#EXTINF:-1, BABY TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3979.ts
-#EXTINF:-1, 24 KITCHEN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3983.ts
-#EXTINF:-1, AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3985.ts
-#EXTINF:-1, A & E
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3982.ts
-#EXTINF:-1, A BOLA TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3981.ts
-#EXTINF:-1, AXN WHITE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3984.ts
-#EXTINF:-1,  Historia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/4302.ts
-#EXTINF:-1, RTP MADEIRA
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/6622.ts
-#EXTINF:-1, AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3980.ts
-#EXTINF:-1, FOX CRIME
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/3940.ts
-#EXTINF:-1, AXN WHITE HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7032.ts
-#EXTINF:-1, EUROSPORT 1 HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7047.ts
-#EXTINF:-1, FIGHT NETWORK HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7046.ts
-#EXTINF:-1, FOX Comedy HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7027.ts
-#EXTINF:-1, BTV 1 HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7039.ts
-#EXTINF:-1, AMC HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7034.ts
-#EXTINF:-1, SPORT TV 1 HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7049.ts
-#EXTINF:-1, SPORT TV 5 HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7040.ts
-#EXTINF:-1, SIC NOTICIAS HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7053.ts
-#EXTINF:-1, FOX LIFE HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7029.ts
-#EXTINF:-1, SPORT TV 3 HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7042.ts
-#EXTINF:-1, FOX CRIME HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7028.ts
-#EXTINF:-1, SyFy HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7026.ts
-#EXTINF:-1, SPORT TV+  HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7051.ts
-#EXTINF:-1, SPORT TV 2 HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7043.ts
-#EXTINF:-1, Sporting TV HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7048.ts
-#EXTINF:-1, SIC RADICAL HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7052.ts
-#EXTINF:-1, FUEL TV HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7045.ts
-#EXTINF:-1, TVCINE 2 HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7037.ts
-#EXTINF:-1,  Fox Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/4303.ts
-#EXTINF:-1, RTP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/4000.ts
-#EXTINF:-1, AXN BLACK HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7031.ts
-#EXTINF:-1, AXN HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7033.ts
-#EXTINF:-1, TVCINE 3 HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7036.ts
-#EXTINF:-1, TVCINE 4 HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7035.ts
-#EXTINF:-1, TVCINE 1 HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7038.ts
-#EXTINF:-1, FOX HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7030.ts
-#EXTINF:-1, CBS REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/4300.ts
-#EXTINF:-1, SPORT TV 4 HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7041.ts
-#EXTINF:-1,XXX: Porn Mix 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/158.ts
-#EXTINF:-1,XXX: JASMIN TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/28.ts
-#EXTINF:-1,XXX: Pinko TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/27.ts
-#EXTINF:-1, SIC RADICAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/934.ts
-#EXTINF:-1, SPORT TV+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7050.ts
-#EXTINF:-1, HOLLYWOOD HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7728.ts
-#EXTINF:-1, SUNDANCE HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7727.ts
-#EXTINF:-1, FASHION TV HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7720.ts
-#EXTINF:-1, Fine Living Network HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7719.ts
-#EXTINF:-1, Nat Geo Wild HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7723.ts
-#EXTINF:-1, Outdoor Channel HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7721.ts
-#EXTINF:-1, NATIONAL GEOGRAPHIC HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7724.ts
-#EXTINF:-1, DISCOVERY HD 1080 SHOWCASE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7722.ts
-#EXTINF:-1, TRAVEL CHANNEL HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7725.ts
-#EXTINF:-1, FOX Movies HD 1080
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/7726.ts
-#EXTINF:-1, Panda Biggs
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/8526.ts
-#EXTINF:-1, RTP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://217.23.1.3:6969/live/mate/mate/999.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/731.ts
+#EXTINF:-1, ODISSEIA 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/3159.ts
+#EXTINF:-1, Hollywood 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/733.ts
+#EXTINF:-1, FILM 1 COMEDY 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/736.ts
+#EXTINF:-1, Abola TV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/3165.ts
+#EXTINF:-1, BENFICA TV 1 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/724.ts
+#EXTINF:-1, Axn Black HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/738.ts
+#EXTINF:-1, DISCOVERY CHANNEL 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/720.ts
+#EXTINF:-1, BENFICA TV 2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/725.ts
+#EXTINF:-1, TV RECORD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/3160.ts
+#EXTINF:-1, AXN HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/1725.ts
+#EXTINF:-1, RTP ACORES 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/730.ts
+#EXTINF:-1, Fox Life HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/734.ts
+#EXTINF:-1, Sport TV 3 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/390.ts
+#EXTINF:-1,PTV SPORTS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/1317.ts
+#EXTINF:-1, SIC NOTICIAS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/12.ts
+#EXTINF:-1, Canal Porto 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/64.ts
+#EXTINF:-1, Sport TV 5 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/711.ts
+#EXTINF:-1, NAT GEO WILD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/715.ts
+#EXTINF:-1, Motor Tv 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/716.ts
+#EXTINF:-1, SIC CARAS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/713.ts
+#EXTINF:-1, SIC NOTICIAS 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/712.ts
+#EXTINF:-1, TVI FICCAO 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://163.172.99.28:25461/live/dealsat/deal/710.ts
+#EXTINF:-1, SYFY SD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32620.ts
+#EXTINF:-1, SYFY HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32621.ts
+#EXTINF:-1, MCS EXTREME 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32601.ts
+#EXTINF:-1, RTP 2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1856.ts
+#EXTINF:-1, TVCine 2 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://193.70.6.107:9876/live/002763037705/002763037705/1837.ts
+#EXTINF:-1, Tvi 24 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32569.ts
+#EXTINF:-1, AXN Black HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32628.ts
+#EXTINF:-1, TV Record 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32629.ts
+#EXTINF:-1, RTP 3 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://93.190.141.244:8000/live/cuda/cuda/27867.ts
+#EXTINF:-1, Sic Mulher 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32572.ts
+#EXTINF:-1, Canal Panda 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32565.ts
+#EXTINF:-1, ENTERTAINMENT 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32576.ts
+#EXTINF:-1, RTP Acores 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32631.ts
+#EXTINF:-1, Sport TV2 HD 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32646.ts
+#EXTINF:-1, PFC 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://93.190.141.244:8000/live/cuda/cuda/27872.ts
+#EXTINF:-1, Globo 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://93.190.141.244:8000/live/cuda/cuda/27888.ts
