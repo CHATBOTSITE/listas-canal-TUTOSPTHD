@@ -259,3 +259,4 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.6
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32631.ts
 #EXTINF:-1, Sport TV2 HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.71.66.26:8000/live/@@lucatorex5@@/wXekPEKcdK/32646.ts
+
