@@ -1,99 +1,51 @@
 #EXTM3U
-#EXTINF:-1,[COLOR green]LISTA [COLOR yellow]ATUALIZADA [COLOR green]23-09-2017 [COLOR yellow][INSANERC][/COLOR]
+#EXTINF:-1,[COLOR green]LISTA [COLOR yellow]ATUALIZADA [COLOR green]28-09-2017 [COLOR yellow][INSANERC][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1022.ts
-#EXTINF:-1,|PT| Abola TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1022.ts
-#EXTINF:-1,|PT| AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1069.ts
-#EXTINF:-1,|PT| AXN
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1067.ts
-#EXTINF:-1,|PT| AXN Black
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1068.ts
-#EXTINF:-1,|PT| AXN White
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1066.ts
-#EXTINF:-1,|PT| BTV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1065.ts
-#EXTINF:-1,|PT| Canal Cine Mundo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1064.ts
-#EXTINF:-1,|PT| Cancao Nova
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1063.ts
-#EXTINF:-1,|PT| Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1030.ts
-#EXTINF:-1,|PT| Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1029.ts
-#EXTINF:-1,|PT| Euro Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1062.ts
-#EXTINF:-1,|PT| Euro Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1061.ts
-#EXTINF:-1,|PT| FOX
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1060.ts
-#EXTINF:-1,|PT| FOX Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1059.ts
-#EXTINF:-1,|PT| FOX Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1058.ts
-#EXTINF:-1,|PT| FOX Life
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1057.ts
-#EXTINF:-1,|PT| FOX Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1056.ts
-#EXTINF:-1,|PT| FOX News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1055.ts
-#EXTINF:-1,|PT| Globo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1054.ts
-#EXTINF:-1,|PT| Hollywood
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1053.ts
-#EXTINF:-1,|PT| Motors TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1028.ts
-#EXTINF:-1,|PT| MTV Portugal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1027.ts
-#EXTINF:-1,|PT| Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1052.ts
-#EXTINF:-1,|PT| National Geographic
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1051.ts
-#EXTINF:-1,|PT| Record News
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1050.ts
-#EXTINF:-1,|PT| RTP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1049.ts
-#EXTINF:-1,|PT| RTP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1048.ts
-#EXTINF:-1,|PT| RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1047.ts
-#EXTINF:-1,|PT| RTP Acores
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1026.ts
-#EXTINF:-1,|PT| RTP Madeira
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1025.ts
-#EXTINF:-1,|PT| SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1046.ts
-#EXTINF:-1,|PT| SIC Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1045.ts
-#EXTINF:-1,|PT| Sic Noticias
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1024.ts
-#EXTINF:-1,|PT| Sport TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1044.ts
-#EXTINF:-1,|PT| Sport TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1043.ts
-#EXTINF:-1,|PT| Sport TV 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1042.ts
-#EXTINF:-1,|PT| Sport TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1041.ts
-#EXTINF:-1,|PT| Sport TV 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1040.ts
-#EXTINF:-1,|PT| Sport TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1039.ts
-#EXTINF:-1,|PT| SYFY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1038.ts
-#EXTINF:-1,|PT| TV Cine 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1037.ts
-#EXTINF:-1,|PT| TV Cine 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1036.ts
-#EXTINF:-1,|PT| TV Cine 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1035.ts
-#EXTINF:-1,|PT| TV Cine 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1034.ts
-#EXTINF:-1,|PT| TV Record
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1033.ts
-#EXTINF:-1,|PT| TV Serie
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1023.ts
-#EXTINF:-1,|PT| TVI 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1032.ts
-#EXTINF:-1,|PT| TVI Ficcao
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://major2.ipfox.co:8080/live/winsor_ZdtMSC/GhAUwb3w/1031.ts
+#EXTINF:-1,PT | A BOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8540.ts
+#EXTINF:-1,PT | AXN BLACK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8541.ts
+#EXTINF:-1,PT | AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8551.ts
+#EXTINF:-1,PT | FOX CRIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8542.ts
+#EXTINF:-1,PT | FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8543.ts
+#EXTINF:-1,PT | FOX MOVIE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8552.ts
+#EXTINF:-1,PT | NAT GEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8544.ts
+#EXTINF:-1,PT | RTP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8553.ts
+#EXTINF:-1,PT | RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8554.ts
+#EXTINF:-1,PT | SIC Kids
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8556.ts
+#EXTINF:-1,PT | SIC NOTICIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8557.ts
+#EXTINF:-1,PT | SIC RADICAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8555.ts
+#EXTINF:-1,PT | SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8550.ts
+#EXTINF:-1,PT | SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8549.ts
+#EXTINF:-1,PT | SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8548.ts
+#EXTINF:-1,PT | SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8547.ts
+#EXTINF:-1,PT | SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8545.ts
+#EXTINF:-1,PT | SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8558.ts
+#EXTINF:-1,PT | TVCINE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8559.ts
+#EXTINF:-1,PT | TVCINE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8560.ts
+#EXTINF:-1,PT | TVCINE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8561.ts
+#EXTINF:-1,PT | TVCINE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8562.ts
+#EXTINF:-1,PT | TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8563.ts
+#EXTINF:-1,PT | TVI 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://cemil.300panel3.com:8080/live/cuneyt2/123456/8546.ts
