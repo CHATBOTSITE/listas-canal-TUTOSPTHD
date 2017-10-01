@@ -1,141 +1,281 @@
 #EXTM3U
 #EXTINF:-1,[COLOR green]LISTA [COLOR yellow]ATUALIZADA [COLOR green]30-09-2017 [COLOR yellow][INSANERC][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/1215.ts
-#EXTINF:-1,(PT) RTP 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/1215.ts
-#EXTINF:-1,(PT) RTP 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/1216.ts
-#EXTINF:-1,(PT) RTP 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9416.ts
-#EXTINF:-1,(PT) RTP Memoria
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/2712.ts
-#EXTINF:-1,(PT) RTP Africa
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9625.ts
-#EXTINF:-1,(PT) TVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/1218.ts
-#EXTINF:-1,(PT) SIC HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/1217.ts
-#EXTINF:-1,(PT) SIC Noticias
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/2703.ts
-#EXTINF:-1,(PT) SIC Radical
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9392.ts
-#EXTINF:-1,(PT) SIC Mulher
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/2716.ts
-#EXTINF:-1,(PT) Porto Canal
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/2704.ts
-#EXTINF:-1,(PT) Globo Premium
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/2731.ts
-#EXTINF:-1,(PT)  Globo TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9390.ts
-#EXTINF:-1,|=| PT - KIDS |=|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/7120.ts
-#EXTINF:-1,(PT) Disney Channel
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9410.ts
-#EXTINF:-1,(PT) Disney Junior
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/2717.ts
-#EXTINF:-1,(PT) Cartoon Network
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9412.ts
-#EXTINF:-1,(PT) Canal Panda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/2710.ts
-#EXTINF:-1,(PT) Nickelodeon
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9417.ts
-#EXTINF:-1,(PT) JimJam
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9400.ts
-#EXTINF:-1,(PT) SIC Kids
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/2720.ts
-#EXTINF:-1,|=| PT - DOCU |=|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/7118.ts
-#EXTINF:-1,(PT) Nat Geo Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/2705.ts
-#EXTINF:-1,(PT) Discovery Showcase HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/23324.ts
-#EXTINF:-1,(PT) National Geographic HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9422.ts
-#EXTINF:-1,(PT) Travel Channel HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9420.ts
-#EXTINF:-1,(PT) Historia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9413.ts
-#EXTINF:-1,(PT) 24 Kitchen HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/1236.ts
-#EXTINF:-1,(PT) E! Entertainment
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/2725.ts
-#EXTINF:-1,|=| PT - OTHER |=|
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/7121.ts
-#EXTINF:-1,(PT) CMTV iptvsource_com
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/2709.ts
-#EXTINF:-1,(PT) Odisseia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9399.ts
-#EXTINF:-1,(PT) CBS Reality
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9411.ts
-#EXTINF:-1,(PT) Canal Q
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9418.ts
-#EXTINF:-1,(PT) A Bola TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9415.ts
-#EXTINF:-1,(PT) TVI 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/2734.ts
-#EXTINF:-1,(PT) TLC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9409.ts
-#EXTINF:-1,(PT) FOX HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/1232.ts
-#EXTINF:-1,(PT) Fox Life HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/1234.ts
-#EXTINF:-1,(PT) Fox Crime HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/1230.ts
-#EXTINF:-1,(PT) Fox Movies
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/1235.ts
-#EXTINF:-1,(PT) Fox Comedy
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9403.ts
-#EXTINF:-1,(PT) AMC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9423.ts
-#EXTINF:-1,(PT) AXN HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/1227.ts
-#EXTINF:-1,(PT) AXN White HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/2708.ts
-#EXTINF:-1,(PT) AXN Black HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9414.ts
-#EXTINF:-1,(PT) SyFy HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9391.ts
-#EXTINF:-1,(PT) TVC 1 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/1220.ts
-#EXTINF:-1,(PT) TVC 2 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/1221.ts
-#EXTINF:-1,(PT) TVC 3 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/1222.ts
-#EXTINF:-1,(PT) TVC 4 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/1223.ts
-#EXTINF:-1,(PT) MOV HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/2706.ts
-#EXTINF:-1,(PT) Hollywood HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9402.ts
-#EXTINF:-1,(PT) Cine Mundo
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9419.ts
-#EXTINF:-1,(PT) Sport TV 1 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/864.ts
-#EXTINF:-1,(PT) Sport TV 2 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/13184.ts
-#EXTINF:-1,(PT) Sport TV 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/862.ts
-#EXTINF:-1,(PT) Sport TV 4 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/1021.ts
-#EXTINF:-1,(PT) Sport TV 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/1022.ts
-#EXTINF:-1,(PT) Eurosport 1 HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/2739.ts
-#EXTINF:-1,(PT) Eurosport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9407.ts
-#EXTINF:-1,(PT) Benfica 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/1171.ts
-#EXTINF:-1,(PT) Sporting TV HD+
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/2732.ts
-#EXTINF:-1,(PT) PFC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9421.ts
-#EXTINF:-1,(PT) TV Record
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/9624.ts
-#EXTINF:-1,(RS) RTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/24137.ts
-#EXTINF:-1,(RS) RTS 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/613.ts
-#EXTINF:-1,(RS) RTS 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/612.ts
-#EXTINF:-1,(RS) RTS 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.255.90.94:1339/live/macit/kartal/6153.ts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4399.ts
+#EXTINF:-1,RTP 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4399.ts
+#EXTINF:-1,RTP1 HQ  (NET FRACA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4683.ts
+#EXTINF:-1,RTP 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4398.ts
+#EXTINF:-1,RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4684.ts
+#EXTINF:-1,SIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4396.ts
+#EXTINF:-1,SIC HQ  (NET FRACA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4685.ts
+#EXTINF:-1,TVI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4395.ts
+#EXTINF:-1,TVI HQ  (NET FRACA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4686.ts
+#EXTINF:-1,SIC NOTICIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4393.ts
+#EXTINF:-1,SIC NOTICIAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/6237.ts
+#EXTINF:-1,TVI 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4392.ts
+#EXTINF:-1,CMTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4394.ts
+#EXTINF:-1,CMTV HQ  (NET FRACA)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/5096.ts
+#EXTINF:-1,RTP 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4397.ts
+#EXTINF:-1,TVI FICCAO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4391.ts
+#EXTINF:-1,TVI REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4390.ts
+#EXTINF:-1,MOSAICO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/7252.ts
+#EXTINF:-1,Camera 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/7253.ts
+#EXTINF:-1,Camera 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/7256.ts
+#EXTINF:-1,Camera 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/7254.ts
+#EXTINF:-1,Camera 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/7255.ts
+#EXTINF:-1,RTL LUXEMBOURG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4629.ts
+#EXTINF:-1,SVT NOTICIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/7374.ts
+#EXTINF:-1,CANAL 1 EUROPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/7373.ts
+#EXTINF:-1,GLOBO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4389.ts
+#EXTINF:-1,GLOBO PREMIUM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4388.ts
+#EXTINF:-1,globo int europa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/7356.ts
+#EXTINF:-1,TV RECORD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4387.ts
+#EXTINF:-1,SIC MULHER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4386.ts
+#EXTINF:-1,SIC CARAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4385.ts
+#EXTINF:-1,SIC CARAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/6236.ts
+#EXTINF:-1,SIC RADICAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4384.ts
+#EXTINF:-1,SIC RADICAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/6238.ts
+#EXTINF:-1,PORTO CANAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4383.ts
+#EXTINF:-1,RTP MEMORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4381.ts
+#EXTINF:-1,RTP AFRICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4380.ts
+#EXTINF:-1,RTP MADEIRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4379.ts
+#EXTINF:-1,RTP ACORES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4378.ts
+#EXTINF:-1,SPORT TV +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4377.ts
+#EXTINF:-1,SPORT TV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4376.ts
+#EXTINF:-1,SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4374.ts
+#EXTINF:-1,SPORT TV 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4372.ts
+#EXTINF:-1,SPORT TV 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4370.ts
+#EXTINF:-1,SPORT TV 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4369.ts
+#EXTINF:-1,SPORT TV 1 HQ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/5036.ts
+#EXTINF:-1,SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4375.ts
+#EXTINF:-1,SPORT TV 1 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/6314.ts
+#EXTINF:-1,SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4373.ts
+#EXTINF:-1,SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4371.ts
+#EXTINF:-1,SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4692.ts
+#EXTINF:-1,SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/6245.ts
+#EXTINF:-1,BTV 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4368.ts
+#EXTINF:-1,BTV 1 HQ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/5037.ts
+#EXTINF:-1,BTV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4367.ts
+#EXTINF:-1,A BOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4366.ts
+#EXTINF:-1,NBA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4365.ts
+#EXTINF:-1,KOMBAT SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4687.ts
+#EXTINF:-1,FIGHT NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4364.ts
+#EXTINF:-1,MOTORISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4363.ts
+#EXTINF:-1,MOTORS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4362.ts
+#EXTINF:-1,SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4361.ts
+#EXTINF:-1,REAL MADRID TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4360.ts
+#EXTINF:-1,EUROSPORT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4359.ts
+#EXTINF:-1,EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4356.ts
+#EXTINF:-1,TOROS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4352.ts
+#EXTINF:-1,TVCINE 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4350.ts
+#EXTINF:-1,TVCINE 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4349.ts
+#EXTINF:-1,TVCINE 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4348.ts
+#EXTINF:-1,TVCINE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4347.ts
+#EXTINF:-1,TVCINE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4346.ts
+#EXTINF:-1,TVCINE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4345.ts
+#EXTINF:-1,TVCINE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4344.ts
+#EXTINF:-1,TVCINE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4343.ts
+#EXTINF:-1,TV SERIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4342.ts
+#EXTINF:-1,TV SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4341.ts
+#EXTINF:-1,CINEMUNDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4340.ts
+#EXTINF:-1,FOX Movies HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/6291.ts
+#EXTINF:-1,FOX MOVIES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4339.ts
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/6230.ts
+#EXTINF:-1,AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4337.ts
+#EXTINF:-1,HOLLYWOOD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4336.ts
+#EXTINF:-1,HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4335.ts
+#EXTINF:-1,SUNDANCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4334.ts
+#EXTINF:-1,FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4333.ts
+#EXTINF:-1,FOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4332.ts
+#EXTINF:-1,FOX COMEDY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4331.ts
+#EXTINF:-1,FOX CRIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4330.ts
+#EXTINF:-1,CRIME & INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/6231.ts
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4329.ts
+#EXTINF:-1,AXN BLACK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4328.ts
+#EXTINF:-1,AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4327.ts
+#EXTINF:-1,SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4326.ts
+#EXTINF:-1,CANAL PANDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4310.ts
+#EXTINF:-1,DISNEY JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4308.ts
+#EXTINF:-1,DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4309.ts
+#EXTINF:-1,CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4307.ts
+#EXTINF:-1,BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4306.ts
+#EXTINF:-1,BABY FIRST
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4302.ts
+#EXTINF:-1,NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4305.ts
+#EXTINF:-1,JIM JAM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4303.ts
+#EXTINF:-1,BIGGS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4304.ts
+#EXTINF:-1,SIC K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4301.ts
+#EXTINF:-1,LIVING NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/6233.ts
+#EXTINF:-1,OUTDOOR CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/6234.ts
+#EXTINF:-1,TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4325.ts
+#EXTINF:-1,CBS REALITY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4324.ts
+#EXTINF:-1,E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4322.ts
+#EXTINF:-1,ODISSEIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4323.ts
+#EXTINF:-1,HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4321.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4320.ts
+#EXTINF:-1,DISCOVERY HD SHOWCASE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4319.ts
+#EXTINF:-1,NACIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4318.ts
+#EXTINF:-1,NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4317.ts
+#EXTINF:-1,MCS EXTREME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4315.ts
+#EXTINF:-1,MCS LIFESTYLE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4314.ts
+#EXTINF:-1,TRAVEL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4313.ts
+#EXTINF:-1,FUEL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4355.ts
+#EXTINF:-1,PFC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4354.ts
+#EXTINF:-1,CACAVISION
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4353.ts
+#EXTINF:-1,CACA E PESCA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4351.ts
+#EXTINF:-1,A.E
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4312.ts
+#EXTINF:-1,24 KITCHEN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4311.ts
+#EXTINF:-1,EURO NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4300.ts
+#EXTINF:-1,FRANCE 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4299.ts
+#EXTINF:-1,SKY NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4298.ts
+#EXTINF:-1,FOX NEWS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4296.ts
+#EXTINF:-1,TV GALICIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4295.ts
+#EXTINF:-1,FASHION TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4294.ts
+#EXTINF:-1,KURIAKOS TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/6232.ts
+#EXTINF:-1,TPA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4286.ts
+#EXTINF:-1,CABO VERDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4285.ts
+#EXTINF:-1,AFRO MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4289.ts
+#EXTINF:-1,C-MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4287.ts
+#EXTINF:-1,MCM POP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4290.ts
+#EXTINF:-1,MCM TOP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4284.ts
+#EXTINF:-1,MTV PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4292.ts
+#EXTINF:-1,TRACE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4293.ts
+#EXTINF:-1,VH1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/4288.ts
+#EXTINF:-1,VH1 CLASSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.painelpro.net:8000/live/ACE-4dd0n-C4nt1nh0/cWTtUWbuW8/6246.ts
